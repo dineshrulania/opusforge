@@ -52,4 +52,4 @@ Found a bug or have a feature request? Please mail at [opusforge1978@gmail.com].
 
 ---
 
-**Forged by [Subham Kumar]**
+
